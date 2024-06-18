@@ -2,8 +2,8 @@
 ---
 👩🏻‍🎓 Studying Computer Science at the Pontifical Catholic University of Rio Grande do Sul (PUCRS) <br/>
 💭 Learning and exploring the tech world <br/>
-💻 Diving into the world of technology <br/>
-🍄 I love playing Mario Kart (Shy-Guy, the best!)
+👩🏻‍💻 Diving into the world of technology <br/>
+☕️ I love coffee
 
 
 
